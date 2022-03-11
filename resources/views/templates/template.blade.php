@@ -180,7 +180,7 @@
     }
 </style>
 <div>
-    <img id="logo" src="http://127.0.0.1:8000/assets/img/LOGO.svg">
+    <img id="logo" src="http://50.17.20.77/assets/img/LOGO.svg">
     <div id="menu">
         <a href="{{url("/")}}">Como funciona</a>&emsp;&emsp;&emsp;
         <a href="{{url("/calculaenvio")}}">Calcular envio</a>
